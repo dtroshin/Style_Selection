@@ -1,0 +1,46 @@
+.wrapper{
+    border:1px solid red;
+    width:80%;
+    margin:0 auto;
+}
+.banner{
+    border:1px solid blue;
+    height:150px;
+}
+.menu{
+    border:1px solid green;
+    overflow:auto;
+    float:left;
+    width:20%;
+}
+.item{
+    border:1px solid purple;
+    padding:2%;
+    text-align: center;
+}
+.Lsidebar{
+    border:1px solid purple;
+    display:none;
+}
+.Rsidebar{
+    border:1px solid purple;
+    display:none;
+}
+.content{
+    border:1px solid blue;
+    overflow:auto;
+}
+.options{
+    border:1px solid red;
+    float:left;
+    padding:2%;
+    margin:2% 3%;
+    width:22%;
+}
+.options:hover{
+    cursor:pointer;
+}
+.footer{
+    border:1px solid green;
+    text-align: center;
+}

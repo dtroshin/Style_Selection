@@ -1,0 +1,42 @@
+.wrapper{
+    border:1px solid red;
+    width:80%;
+    margin:0 auto;
+}
+.banner{
+    border:1px solid blue;
+    height:150px;
+}
+.menu{
+    border:1px solid green;
+    overflow:auto;
+}
+.item{
+    border:1px solid purple;
+    float:left;
+}
+.Lsidebar{
+    border:1px solid purple;
+    display:none;
+}
+.Rsidebar{
+    border:1px solid purple;
+    display:none;
+}
+.content{
+    border:1px solid blue;
+    overflow:auto;
+}
+.options{
+    border:1px solid red;
+    float:left;
+    padding:2%;
+    margin:2% 4%;
+    width:20%;
+}
+.options:hover{
+    cursor:pointer;
+}
+.footer{
+    border:1px solid green;
+}
